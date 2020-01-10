@@ -1,6 +1,6 @@
 stardust = Book.create(title: "Stardust", author: "Neil Gaiman", cover: "https://i.pinimg.com/originals/18/04/7a/18047a8eb286f0340fc21dfbe65bf2fb.jpg")
 americangod = Book.create(title: "American Gods", author: "Neil Gaiman", cover: "https://images-na.ssl-images-amazon.com/images/I/51Pb-OAREFL._SX327_BO1,204,203,200_.jpg")
-handmaid = Book.create(title: "The Handmaid's Tale", author_id: Margaret Atwood, cover: "https://images-na.ssl-images-amazon.com/images/I/91Idmo2GtiL.jpg")
+handmaid = Book.create(title: "The Handmaid's Tale", author: "Margaret Atwood", cover: "https://images-na.ssl-images-amazon.com/images/I/91Idmo2GtiL.jpg")
 jurassic = Book.create(title: "Jurassic Park", author: "Michael Crichton", cover: "http://www.michaelcrichton.com/wp-content/uploads/2014/12/book-jurassicpark.jpg")
 pan = Book.create(title: "Peter Pan", author: "J.M. Barrie", cover: "https://static.greatbigcanvas.com/images/singlecanvas_thick_none/corbis/cover-of-peter-pan-and-wendy-by-j-m-barrie,2233356.jpg?max=1000")
 vampireinterview = Book.create(title: "Interview with the Vampire", author: "Anne Rice", cover: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380631642i/43763.jpg")
